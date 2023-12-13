@@ -16,7 +16,7 @@ This GitHub repository showcases my projects and contributions. Feel free to exp
 
 ## Contact
 
-📧 **Email:** [your.email@example.com](mailto:singh.amre@northeastern.edu)
+📧 **Email:** [singh.amre@northeastern.edu](mailto:singh.amre@northeastern.edu)
 
 🌐 **LinkedIn:** [Amresh Rajvinder Singh](https://www.linkedin.com/in/amresh-rajvinder-singh-795a4718b)
 
