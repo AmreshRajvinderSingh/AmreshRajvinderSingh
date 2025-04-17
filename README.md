@@ -4,50 +4,12 @@
 
 Hi! I'm **Amresh Rajvinder Singh**, a passionate software engineer with a focus on **cloud technologies**, **full-stack development**, and **AI integrations**. Currently pursuing a Master’s in **Information Systems** at **Northeastern University**, I bring strong technical expertise backed by experience in **Java Spring Boot**, **React**, and **cloud platforms** like **AWS** and **GCP**.
 
-In my professional journey, I have gained hands-on experience with backend and frontend technologies, cloud infrastructure, and DevOps tools, building scalable and efficient solutions. I am particularly excited about **AI-driven applications** and **cloud automation**.
+In my professional journey, I have gained hands-on experience with backend and frontend technologies, cloud infrastructure, and DevOps tools, building scalable and efficient solutions. I am particularly excited about **AI-driven applications** and **cloud automation**
 
 ---
+##  Tech Stack
 
-##  Education
-
-**Northeastern University, Boston, MA**  
-_Master of Science in Information Systems_  
-_Expected Graduation: May 2025_
-
-**GITAM University, Hyderabad, India**  
-_Bachelor of Technology in Computer Science_  
-_Graduated: June 2021_
-
----
-
-##  Work Experience
-
-### **Tata Consultancy Services** | Hyderabad, India  
-**Software Engineer**  
-_Dec 2021 – Jun 2023_
-
-- Led the design and development of scalable **backend services** using **Spring Boot** and **Java**, reducing data processing time by **30%**.
-- Built **React.js** frontend components to improve user experiences, reducing user interaction time by **30%**.
-- Integrated external APIs and services to enhance functionality and system performance.
-- Implemented **CI/CD pipelines** using **Jenkins** and **GitHub Actions**, reducing deployment time by **40%**.
-- Applied **OAuth2** and **JWT** for secure API authentication, reducing security vulnerabilities by **30%**.
-
-### **Tata Consultancy Services** | Hyderabad, India  
-**Assistant Software Engineer**  
-_Jun 2021 – Dec 2021_
-
-- Automated infrastructure management using **Terraform**, reducing misconfigurations by **50%**.
-- Optimized **AWS RDS** performance by **40%** through read replicas and query caching.
-- Designed **multi-cloud disaster recovery solutions** on **AWS** and **GCP** to ensure high availability and fault tolerance.
-
----
-
-
-
-
-#  Tech Stack
-
-##  Programming Languages
+####  Programming Languages
 ![Java](https://img.shields.io/badge/Java-007396?logo=java)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql)
@@ -57,7 +19,7 @@ _Jun 2021 – Dec 2021_
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript)
 ![Shell Script](https://img.shields.io/badge/Shell%20Script-121011?logo=gnu-bash)
 
-##  Frameworks & Libraries
+####  Frameworks & Libraries
 ![Spring Boot](https://img.shields.io/badge/Backend-Spring%20Boot-6DB33F?logo=springboot)
 ![Express.js](https://img.shields.io/badge/Backend-Express.js-000000?logo=express)
 ![NestJS](https://img.shields.io/badge/Backend-NestJS-E0234E?logo=nestjs)
@@ -69,14 +31,14 @@ _Jun 2021 – Dec 2021_
 ![Jest](https://img.shields.io/badge/Test-Jest-C21325?logo=jest)
 ![Cypress](https://img.shields.io/badge/Test-Cypress-17202C?logo=cypress)
 
-##  Cloud Platforms
+####  Cloud Platforms
 ![AWS](https://img.shields.io/badge/Cloud-AWS-232F3E?logo=amazonaws)
 ![Azure](https://img.shields.io/badge/Cloud-Azure-0078D4?logo=microsoftazure)
 ![GCP](https://img.shields.io/badge/Cloud-GCP-4285F4?logo=googlecloud)
 ![Vercel](https://img.shields.io/badge/Cloud-Vercel-000000?logo=vercel)
 ![Netlify](https://img.shields.io/badge/Cloud-Netlify-00C7B7?logo=netlify)
 
-##  Databases & Messaging
+####  Databases & Messaging
 ![Oracle](https://img.shields.io/badge/Database-Oracle-F80000?logo=oracle)
 ![MySQL](https://img.shields.io/badge/Database-MySQL-4479A1?logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-4169E1?logo=postgresql)
@@ -86,7 +48,7 @@ _Jun 2021 – Dec 2021_
 ![Apache Kafka](https://img.shields.io/badge/Messaging-Apache_Kafka-231F20?logo=apachekafka)
 ![RabbitMQ](https://img.shields.io/badge/Messaging-RabbitMQ-FF6600?logo=rabbitmq)
 
-##  DevOps & Infrastructure
+####  DevOps & Infrastructure
 ![Docker](https://img.shields.io/badge/Container-Docker-2496ED?logo=docker)
 ![Kubernetes](https://img.shields.io/badge/Orchestration-Kubernetes-326CE5?logo=kubernetes)
 ![Helm](https://img.shields.io/badge/Kubernetes-Helm-0F1689?logo=helm)
@@ -101,7 +63,7 @@ _Jun 2021 – Dec 2021_
 ![ELK Stack](https://img.shields.io/badge/Logging-ELK_Stack-005571?logo=elastic)
 ![Nginx](https://img.shields.io/badge/ReverseProxy-Nginx-009639?logo=nginx)
 
-##  Architecture & Design
+####  Architecture & Design
 ![Load Balancing](https://img.shields.io/badge/Architecture-Load%20Balancing-FF0000?logo=nginx)
 ![Distributed Systems](https://img.shields.io/badge/Architecture-Distributed%20Systems-009C95?logo=apachekafka)
 ![Microservices](https://img.shields.io/badge/Architecture-Microservices-00B5E2?logo=docker)
